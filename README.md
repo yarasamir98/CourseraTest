@@ -1,2 +1,2 @@
 # CourseraTest
-This is a repo for coursera testing
+This is a repository for coursera web development practice
